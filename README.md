@@ -60,7 +60,7 @@ git clone https://github.com/CormacM22/SentimentAnalyzer
 - Execute the Runner.java file from your IDE or use the command line:
 ```bash
 javac src/ie/atu/sw/Runner.java
-java -cp src ie.atu.sw.Runne
+java -cp src ie.atu.sw.Runner
 ```
 
 ### 2. Input Options
